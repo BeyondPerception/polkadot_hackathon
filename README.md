@@ -56,3 +56,8 @@ Organizers withdraw proceeds trust-lessly, and cancelled events auto-refund buye
    Organizer calls `withdraw(id)` after the event, or buyers receive refunds automatically on cancellation.
 
 ---
+
+## UI Screenshots
+![Home Page](screenshots/home.png)
+![Events Page](screenshots/events.png)
+![Create Event Page](screenshots/create_event.png)
