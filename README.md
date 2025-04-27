@@ -57,6 +57,12 @@ Organizers withdraw proceeds trust-lessly, and cancelled events auto-refund buye
 
 ---
 
+## Demo Video
+
+Here's a link to the demo video!
+
+[Watch the demo video](https://youtu.be/aZc4SHyj6Gg)
+
 ## UI Screenshots
 ![Home Page](screenshots/home.png)
 ![Events Page](screenshots/events.png)
