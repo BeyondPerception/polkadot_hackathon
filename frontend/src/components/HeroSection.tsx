@@ -29,7 +29,7 @@ const HeroSection = () => {
               </Button>
             </Link>
             <Link to="/create-event">
-              <Button variant="outline" className="border-white text-white hover:bg-white hover:text-ticket-dark w-full sm:w-auto">
+              <Button variant="outline" className="border-white text-black hover:bg-white hover:text-ticket-dark w-full sm:w-auto">
                 Host Your Event
               </Button>
             </Link>
